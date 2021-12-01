@@ -11,6 +11,7 @@ const Skill = () => {
 
                     <img className='w-100' src={image2} alt="" />
                 </div>
+
                 <div className='col-md-6 mt-4 '>
 
 

@@ -13,7 +13,7 @@ const Banner = () => {
         <div>
           {/* Text  section */}
           <h3 className='text-light text-start ms-5 mt-3'>I’m Avi Afrid.  <br />
-            frond-End Developer,Back-End developer,<br />Specialize in MERN stack development</h3>
+            Frond-End Developer,Back-End developer,<br />Specialize in MERN stack development</h3>
 
 
           {/* Button section */}
@@ -35,16 +35,16 @@ const Banner = () => {
 
         </div>
 
-        {/* Image section */}
-        <div className='text-start ms-5'>
-          <img src={image} alt="" />
-        </div>
+
 
 
 
       </div>
-      <div className='col-md-4'>
-
+      <div className='col-md-6'>
+        {/* Image section */}
+        <div className='text-start ms-5'>
+          <img src={image} alt="" />
+        </div>
       </div>
 
     </div>
