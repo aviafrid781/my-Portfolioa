@@ -14,10 +14,10 @@ const ContactSection = () => {
                         <p><span className='text-dark '>Email</span>  <span className='text-dark ms-5 text-start'>aviafrid781@gmail.com</span></p>
                         <p><span className='text-dark '>Address</span>  <span className='text-dark ms-4 '>Mohammodpur, Dhaka</span></p>
                         <p><span className='text-light '>Social</span>  <span className='text-light ms-5 '>
-                            <a className='text-light' target="_blank" href="https://www.facebook.com/profile.php?id=100012666663556"><i class="fab fa-facebook icon"></i></a>
-                            <a className='text-light mx-3' target="_blank" href="https://www.linkedin.com/in/md-amit-hasan-848385227/"><i class="fab fa-linkedin icon"></i></a>
+                            <a className='text-light' target="_blank" href=" https://www.facebook.com/aviafrid.redoyan.9"><i class="fab fa-facebook icon"></i></a>
+                            <a className='text-light mx-3' target="_blank" href=" https://www.linkedin.com/in/avi-afrid-8a94b0196/"><i class="fab fa-linkedin icon"></i></a>
 
-                            <a className='text-light' target="_blank" href="https://github.com/amithasan102827?tab=repositories"><i class="fab fa-github icon "></i> </a>
+                            <a className='text-light' target="_blank" href=" https://github.com/aviafrid781"><i class="fab fa-github icon "></i> </a>
                         </span></p>
 
 

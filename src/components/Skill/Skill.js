@@ -3,7 +3,7 @@ import image2 from '../../images/undraw_percentages_0rur.png';
 
 const Skill = () => {
     return (
-        <div className=' container'>
+        <div id='skills' className=' container'>
             <h2 className='mt-5'>My Skills</h2>
             <div className='row'>
 

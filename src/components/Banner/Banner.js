@@ -6,15 +6,16 @@ import resume from '../../images/Avi_Afrid_Resume.pdf';
 
 const Banner = () => {
   return (
-    <div className='row banner-background'>
-      <div className='col md-8 d-flex justify-content-center align-items-center'>
+    <div id='aboutMe' className='row banner-background'>
+      <div className='col md-10 d-flex justify-content-center align-items-center'>
 
 
         <div>
           {/* Text  section */}
           <h3 className='text-light text-start ms-5 mt-3'>I’m Avi Afrid.  <br />
             Frond-End Developer,Back-End developer,<br />Specialize in MERN stack development</h3>
-
+          <br />
+          <p style={{ color: 'red' }}>I am also problem solving Skills<br />& have solved 400+ problem from Various online judge </p>
 
           {/* Button section */}
           <div className='text-start '>
@@ -37,17 +38,17 @@ const Banner = () => {
 
 
 
-
-
-      </div>
-      <div className='col-md-6'>
-        {/* Image section */}
-        <div className='text-start ms-5'>
-          <img src={image} alt="" />
+        < div className='col-md-7'>
+          {/* Image section */}
+          <div className='text-start'>
+            <img src={image} alt="" />
+          </div>
         </div>
+
+
       </div>
 
-    </div>
+    </div >
   );
 };
 
