@@ -19,10 +19,8 @@ const Banner = () => {
             loop={Infinity}
             wrapper="p"
 
-          
-
           />  <br />
-          Frond-End Developer, Back-End Developer<br />Specialize in MERN stack Development</h3>
+          Frond-End Developer,Back-End Developer<br />Specialize in MERN stack Development</h3>
           <br />
 
        
