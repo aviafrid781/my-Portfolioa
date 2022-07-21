@@ -19,15 +19,16 @@ const Banner = () => {
             loop={Infinity}
             wrapper="p"
 
-            
+          
+
           />  <br />
-            Frond-End Developer,Back-End developer,<br />Specialize in MERN stack development</h3>
+            Frond-End Developer, Back-End Developer,<br />Specialize in MERN stack Development</h3>
           <br />
 
        
 
 
-          <p style={{ color: 'red' }}>I'm also problem Competitive Problem solver<br /> & I  have solved 750+ problem from Various online judge </p>
+          <p style={{ color: 'red' }}>I'm also Competitive Problem solver<br /> & I  have solved 750+ problem from Various online judge </p>
 
           {/* Button section */}
           <div className='text-start '>
@@ -40,7 +41,7 @@ const Banner = () => {
               href={resume} download="Avi Afrid resume.pdf"
               role="button"
             >
-              DONWNLOAD RESUME
+              DOWNLOAD RESUME
             </a>
 
           </div>
