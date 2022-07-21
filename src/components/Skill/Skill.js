@@ -13,7 +13,10 @@ const Skill = () => {
                 </div>
 
                 <div className='col-md-6 mt-4 '>
+                    <div class="progress my-5">
 
+                        <div class="progress-bar" role="progressbar" style={{ width: '90%' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"> C/C++</div>
+                    </div>
 
                     <div class="progress my-5">
 
@@ -23,16 +26,16 @@ const Skill = () => {
                         <div class="progress-bar" role="progressbar" style={{ width: '80%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">CSS</div>
                     </div>
                     <div class="progress my-5">
-                        <div class="progress-bar" role="progressbar" style={{ width: '75%' }} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">JAVASCRIPT</div>
+                        <div class="progress-bar" role="progressbar" style={{ width: '80%' }} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">JAVASCRIPT</div>
                     </div>
                     <div class="progress my-5">
                         <div class="progress-bar" role="progressbar" style={{ width: '90%' }} aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">REACT.JS</div>
                     </div>
                     <div class="progress my-5">
-                        <div class="progress-bar" role="progressbar" style={{ width: '70%' }} aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">NODE.JS</div>
+                        <div class="progress-bar" role="progressbar" style={{ width: '80%' }} aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">NODE.JS</div>
                     </div>
                     <div class="progress my-5">
-                        <div class="progress-bar" role="progressbar" style={{ width: '70%' }} aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">MongoDB</div>
+                        <div class="progress-bar" role="progressbar" style={{ width: '78%' }} aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">MongoDB</div>
                     </div>
 
                 </div>

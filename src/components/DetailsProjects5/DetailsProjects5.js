@@ -9,7 +9,7 @@ const DetailsProject5 = () => {
     return (
         <div className="project1container">
             <div >
-                <h2>This Bike sale website  project </h2>
+                <h2>This FOOD Item website  project </h2>
                 <Carousel style={{ margin: '20' }}>
                     <Carousel.Item>
                         <img

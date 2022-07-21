@@ -1,8 +1,8 @@
 import React from 'react';
 import './Banner.css'
 import image from '../../images/aa.png'
-import resume from '../../images/Avi_Afrid_Resume.pdf';
-
+import resume from '../../images/RESUME _OF_AVI_AFRID.pdf';
+import Typical from 'react-typical'
 
 const Banner = () => {
   return (
@@ -12,10 +12,22 @@ const Banner = () => {
 
         <div>
           {/* Text  section */}
-          <h3 className='text-light text-start ms-5 mt-3'>I’m Avi Afrid.  <br />
+
+
+          <h3 className='text-light text-start ms-5 mt-3'>   <Typical
+            steps={["Welcome", 2000, "This is Avi Afrid", 2000]}
+            loop={Infinity}
+            wrapper="p"
+
+            
+          />  <br />
             Frond-End Developer,Back-End developer,<br />Specialize in MERN stack development</h3>
           <br />
-          <p style={{ color: 'red' }}>I am also problem solving Skills<br />& have solved 400+ problem from Various online judge </p>
+
+       
+
+
+          <p style={{ color: 'red' }}>I'm also problem Competitive Problem solver<br /> & I  have solved 750+ problem from Various online judge </p>
 
           {/* Button section */}
           <div className='text-start '>

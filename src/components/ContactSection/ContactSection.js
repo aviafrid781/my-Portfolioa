@@ -8,7 +8,7 @@ const ContactSection = () => {
             <div className='col md-6 '>
                 <h2 className='text-start ms-5 mb-5'>Contact Me</h2>
                 <div>
-                    <p className='text-start ms-5'>If you contact me.Please feel free to send a email.If you don't get an answer immediately.I mignt just be travelling through the middle of nowwhere. I'll get back to you as soon as i can.That's a promise!</p>
+                    <p className='text-start ms-5'>If you want to contact with me, Please feel free to send email.If you don't get an answer immediately, I mignt just be travelling through the middle of nowwhere. I'll get back to you as soon as i can.That's a promise!</p>
                     <div className='text-start ms-5 mt-4'>
                         <p><span className='text-dark'>Pnone</span>  <span className='text-dark ms-5 text-start'>  +8801904844404</span></p>
                         <p><span className='text-dark '>Email</span>  <span className='text-dark ms-5 text-start'>aviafrid781@gmail.com</span></p>
